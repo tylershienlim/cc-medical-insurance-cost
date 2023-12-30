@@ -6,4 +6,4 @@ For this project, you will be investigating a medical insurance costs dataset in
 
 However, you are now tasked with working with the actual information in the dataset and performing your own independent analysis on real-world data! We will not be providing step-by-step instructions on what to do, but we will provide you with a framework to structure your exploration and analysis.
 
-## Project done by @tylershienlim
+### Project done by @tylershienlim
